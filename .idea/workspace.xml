@@ -317,7 +317,11 @@
       <created>1347564292663</created>
       <updated>1347564292663</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Re-organized all of the files in a proper order.">
+      <created>1347564396942</created>
+      <updated>1347564396942</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
