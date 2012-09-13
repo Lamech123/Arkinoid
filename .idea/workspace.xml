@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d682f372-28c1-4fd3-ae94-f00947559be9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/data/Blip_1-Surround-147.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/data/PulseSho-Mark_E_B-1130.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/data/Tock-Public_d-178.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/data/ToySpace-Mark_E_B-711.wav" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/data/arinoid_master.bmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/data/ball.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/data/brick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Arkinoid.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/Arkanoidv2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/Arkanoidv3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/Arkinoid.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/engine/Arena.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/engine/Paddle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/engine/Spritesheet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arkinoid/engine/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Breakout/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Breakout/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Breakout/breakout.py" />
+      <change type="DELETED" beforePath="C:\Users\Alger\PycharmProjects\Arkinoid\Breakout\README" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alger\PycharmProjects\Arkinoid\Breakout\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Alger\PycharmProjects\Arkinoid\bat.png" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Alger\PycharmProjects\Arkinoid\Breakout\breakout.py" afterPath="$PROJECT_DIR$/breakout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Arkinoid.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -148,7 +125,7 @@
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Python" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Arkinoid" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -167,9 +144,11 @@
       <recent name="C:\Users\Alger\PycharmProjects\Arkinoid\engine" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Alger\PycharmProjects\Arkinoid\Breakout" />
-      <recent name="C:\Users\Alger\PycharmProjects\Arkinoid\Arkinoid" />
       <recent name="C:\Users\Alger\PycharmProjects\Arkinoid\data" />
+      <recent name="C:\Users\Alger\PycharmProjects\Arkinoid" />
+      <recent name="C:\Users\Alger\PycharmProjects\Arkinoid\Arkinoid" />
+      <recent name="C:\Users\Alger\PycharmProjects\Arkinoid\Arkinoid\data" />
+      <recent name="C:\Users\Alger\PycharmProjects\Arkinoid\Breakout" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Arkanoidv2">
@@ -237,7 +216,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <module name="Arkinoid" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alger\PycharmProjects\Arkinoid\Arkinoid\Arkanoidv2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alger\PycharmProjects\Arkinoid\Arkanoidv2.py" />
       <option name="PARAMETERS" value="" />
       <option name="MULTIPROCESS" value="true" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -255,7 +234,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <module name="Arkinoid" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Alger\PycharmProjects\Arkinoid\Breakout\breakout.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Alger\PycharmProjects\Arkinoid\breakout.py" />
       <option name="PARAMETERS" value="" />
       <option name="MULTIPROCESS" value="true" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -292,17 +271,23 @@
       <created>1346963482767</created>
       <updated>1346963482767</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created a new version of Breakout">
+      <created>1347563315980</created>
+      <updated>1347563315980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="1" width="1278" height="678" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32818532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25121555" sideWeight="0.49440297" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16365132" sideWeight="0.6718147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25493422" sideWeight="0.6718147" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25121555" sideWeight="0.5018657" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -312,7 +297,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32818532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -372,14 +356,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Arkinoid/Arkinoid.py">
+    <entry file="file://$PROJECT_DIR$/Arkinoid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="0" selection-start="1035" selection-end="1068" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arkinoid/Arkanoidv2.py">
+    <entry file="file://$PROJECT_DIR$/Arkanoidv2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="23" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.0" />
+        <state line="49" column="23" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arkinoid/engine/Arena.py">
@@ -392,12 +378,12 @@
         <state line="11" column="51" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arkinoid/Arkinoid.py">
+    <entry file="file://$PROJECT_DIR$/Arkinoid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arkinoid/Arkinoid.py">
+    <entry file="file://$PROJECT_DIR$/Arkinoid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="33" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" />
       </provider>
@@ -427,24 +413,30 @@
         <state line="19" column="2" selection-start="395" selection-end="395" vertical-scroll-proportion="0.941691" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arkinoid/Arkinoid.py">
+    <entry file="file://$PROJECT_DIR$/Arkinoid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="29" selection-start="1010" selection-end="1010" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arkinoid/Arkanoidv3.py">
+    <entry file="file://$PROJECT_DIR$/Arkanoidv3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.79310346" />
+        <state line="1" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.79310346">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arkinoid/Arkanoidv2.py">
+    <entry file="file://$PROJECT_DIR$/Arkanoidv2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Breakout/breakout.py">
+    <entry file="file://$PROJECT_DIR$/breakout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.03448276" />
+        <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.03448276">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bat.png">
